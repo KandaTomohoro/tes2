@@ -1,0 +1,9 @@
+
+--ブランチ一覧
+git branch
+
+--ブランチを切る
+git branch ブランチ名
+
+--ブランチに切り替える
+git switch ブランチ名
